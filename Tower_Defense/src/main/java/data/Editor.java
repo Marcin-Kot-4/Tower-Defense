@@ -10,12 +10,9 @@ import org.newdawn.slick.opengl.Texture;
 import static controllers.Graphic.*;
 import static controllers.Map.*;
 
-<<<<<<< HEAD
 /**
  * Klasa Editor wczytuje pierwszą mapę, do jej edycji.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class Editor {
 
     private boolean showHelp;

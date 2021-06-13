@@ -5,12 +5,9 @@ import java.util.concurrent.CopyOnWriteArrayList;
 
 import static controllers.Time.GetDeltaFrameTime;
 
-<<<<<<< HEAD
 /**
  * Klasa Wave zawiera listę CopyOnWriteArrayList, ponieważ ten typ listy jest bezpieczny dla wątków.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class Wave {
 
     private float timeSinceLastSpawn, spawnTime;

@@ -4,12 +4,9 @@ import org.newdawn.slick.opengl.Texture;
 
 import static controllers.Graphic.FastLoad;
 
-<<<<<<< HEAD
 /**
  * Klasa Button to klasa która odpowiada za przyciski.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class Button {
 
     private String name, textureName;

@@ -8,13 +8,10 @@ import java.util.concurrent.CopyOnWriteArrayList;
 import static controllers.Graphic.*;
 import static controllers.Time.GetDeltaFrameTime;
 
-<<<<<<< HEAD
 /**
  * Klasa LightAntimatterMissileLauncher zawiera m.in. metodę która implementuje
  * abstrakcyjną metodę shootabstrakcyjnej klasy Tower oraz dwie nadpisane metody.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class LightAntimatterMissileLauncher extends Tower {
     private int missileFiredInThisSeries;
     private int numberOfLaunchedSeries;

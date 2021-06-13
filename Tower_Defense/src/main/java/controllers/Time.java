@@ -2,16 +2,12 @@ package controllers;
 
 import org.lwjgl.Sys;
 
-<<<<<<< HEAD
 /**
  * Klasa Time zawiera m.in. metodę która zwraca czas pomiędzy teraźniejszością,
  * a ostatnią aktualizacją klatki wyświetlanego obrazu gry,
  * metodę aktualizującą czas uruchomienia gry,
  * czy statyczną metodę do zatrzymywania i wznawiania gry.
  */
-=======
-
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class Time {
 
     private static boolean paused = false;

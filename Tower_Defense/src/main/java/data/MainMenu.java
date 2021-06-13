@@ -7,14 +7,11 @@ import org.newdawn.slick.opengl.Texture;
 
 import static controllers.Graphic.*;
 
-<<<<<<< HEAD
 /**
  * Klasa MainMenu zawiera m.in. przyciski znajdujące się w menu głównym,
  * metodę która odpowiada za włączenie stanów gry dostępnych w głównyum menu,
  * informacje o grze oraz zmianę tekstur przycisków.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class MainMenu {
 
     private Texture background;

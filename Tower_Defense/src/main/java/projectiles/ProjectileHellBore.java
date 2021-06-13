@@ -4,12 +4,9 @@ import data.Enemy;
 import data.Projectile;
 import data.ProjectileType;
 
-<<<<<<< HEAD
 /**
  * Klasa ProjectileHellBore zawiera m.in. w konstruktorze typ pocisu oraz cel i dwie nadpisane metody.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class ProjectileHellBore extends Projectile {
 
     public ProjectileHellBore(ProjectileType type, Enemy target, float x, float y, int width, int height) {

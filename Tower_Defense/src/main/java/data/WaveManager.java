@@ -1,12 +1,9 @@
 package data;
 
-<<<<<<< HEAD
 /**
  * Klasa WaveManager zawiera m.in. metody które tworzą nowe fale,
  * metodę która zwraca numer fali, czy też metodę która ustawia numer fali.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class WaveManager {
 
     private float timeSinceLastWave, timeBetweenEnemies;

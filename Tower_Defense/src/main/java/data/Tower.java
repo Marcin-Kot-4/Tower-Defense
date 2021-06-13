@@ -8,14 +8,11 @@ import java.util.concurrent.CopyOnWriteArrayList;
 import static controllers.Graphic.*;
 import static controllers.Time.GetDeltaFrameTime;
 
-<<<<<<< HEAD
 /**
  * Klasa abstrakcyjna zawiera m.in. metodę która wyszukuje najbliższy cel
  * w zasięgu więży, metodę która sprawdza czy przeciwnik jest
  * w zasięgu wieży oraz metodę która rysuje wieżę nad wystrzeliwanymi pociskami.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public abstract class Tower implements Unit {
 
     protected float x, y, timeSinceLastShot, firingSpeed, angle, xProjectileModifier, yProjectileModifier, stopRotateOfTowerTime;

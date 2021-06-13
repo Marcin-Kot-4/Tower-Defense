@@ -7,12 +7,9 @@ import java.util.concurrent.CopyOnWriteArrayList;
 
 import static controllers.Graphic.*;
 
-<<<<<<< HEAD
 /**
  * Klasa RocketLauncher zawiera m.in. w konstruktorze typ wieży i jedną nadpisaną metodę.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class RocketLauncher extends Tower {
 
     public RocketLauncher(TowerType type, Tile startTile, CopyOnWriteArrayList<Enemy> enemies) {

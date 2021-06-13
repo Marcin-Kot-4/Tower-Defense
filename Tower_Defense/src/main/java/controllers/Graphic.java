@@ -13,14 +13,11 @@ import java.io.InputStream;
 import static org.lwjgl.opengl.GL11.*;
 import static org.lwjgl.opengl.GL11.GL_MODELVIEW;
 
-<<<<<<< HEAD
 /**
  * Klasa Graphic m.in. ustawia tytuł okna „Tower Defense”, sprawdza czy wystąpiła kolizja dwóch
  * obiektów, rysuje teksture czworokąta w podanych współrzędnych, zwraca obiekty klasy Texture,
  * czy też oblicza kąt o jaki pocisk/rakieta musi się obrócić aby wycelować w przeciwnika.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class Graphic {
     public static final int WIDTH = 1472, HEIGHT = 960;
     public static final int TILE_SIZE = 64;

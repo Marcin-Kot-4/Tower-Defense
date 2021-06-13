@@ -7,12 +7,9 @@ import projectiles.ProjectileLightCannon;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 
-<<<<<<< HEAD
 /**
  * Klasa LightCannon zawiera m.in. w konstruktorze typ wieży i jedną nadpisaną metodę.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class LightCannon extends Tower {
 
     public LightCannon(TowerType type, Tile startTile, CopyOnWriteArrayList<Enemy> enemies) {

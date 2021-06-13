@@ -5,12 +5,9 @@ import projectiles.ProjectileMachineGun;
 import java.util.concurrent.CopyOnWriteArrayList;
 import static controllers.Time.GetDeltaFrameTime;
 
-<<<<<<< HEAD
 /**
  * Klasa MachineGun zawiera m.in. w konstruktorze typ wieży i trzy nadpisane metody.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class MachineGun extends Tower {
 
     private int roundsInTheMagazine;

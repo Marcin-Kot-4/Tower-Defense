@@ -9,14 +9,11 @@ import java.util.ArrayList;
 
 import static controllers.Graphic.*;
 
-<<<<<<< HEAD
 /**
  * Klasa Player zawiera m.in. do sprawdzenia czy gracz ma wystarczającą ilość pieniążków
  * by mógł kupić daną wieżę obronną, metoda która zmienia liczbę
  * żyć gracza oraz metoda obsługująca rysowanie oraz umieszczenie trzymanej wieży.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class Player {
 
     private TileGrid grid;

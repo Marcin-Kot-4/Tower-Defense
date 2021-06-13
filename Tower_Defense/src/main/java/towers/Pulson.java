@@ -4,12 +4,9 @@ import projectiles.ProjectilePulson;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 
-<<<<<<< HEAD
 /**
  * Klasa Pulson zawiera m.in. w konstruktorze typ wieży i dwie nadpisane metody.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class Pulson extends Tower {
 
     public Pulson(TowerType type, Tile startTile, CopyOnWriteArrayList<Enemy> enemies) {

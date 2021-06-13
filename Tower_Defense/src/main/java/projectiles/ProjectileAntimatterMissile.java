@@ -4,12 +4,9 @@ import data.Enemy;
 import data.Projectile;
 import data.ProjectileType;
 
-<<<<<<< HEAD
 /**
  * Klasa ProjectileAntimatterMissile zawiera w sobie m.in. w konstruktorze typ pocisu oraz cel i trzy nadpisane metody.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class ProjectileAntimatterMissile extends Projectile {
 
     private long projectileLastAccelerationTime = System.currentTimeMillis();

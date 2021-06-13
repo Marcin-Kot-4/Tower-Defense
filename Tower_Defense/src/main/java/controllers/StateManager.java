@@ -4,13 +4,10 @@ import data.Editor;
 import data.Game;
 import data.MainMenu;
 
-<<<<<<< HEAD
 /**
  * Klasa StateManager zawiera w sobie początkowy stan gry, czyli Główne Menu,
  * obsługę stanu gry, Mierzenie liczby klatek na sekundę oraz zmianę stanu gry.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class StateManager {
     public static enum GameState{
         MAINMENU, GAME, EDITOR

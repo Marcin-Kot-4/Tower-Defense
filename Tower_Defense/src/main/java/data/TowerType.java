@@ -3,13 +3,10 @@ package data;
 import org.newdawn.slick.opengl.Texture;
 import static controllers.Graphic.*;
 
-<<<<<<< HEAD
 /**
  * Enum inaczej typ wyliczeniowy TowerType zawiera typy wież obronych i m.in. ich zasięg, szybkość wystrzału, koszt.
  * Wieża może się składać z wielu tekstur, dlatego została użyta tablica tekstur.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public enum TowerType {
 
     // wieża może się składać z wielu tekstur, dlatego została użyta tablica tekstur

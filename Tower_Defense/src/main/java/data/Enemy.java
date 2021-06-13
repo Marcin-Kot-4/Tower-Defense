@@ -7,14 +7,11 @@ import java.util.ArrayList;
 import static controllers.Graphic.*;
 import static controllers.Time.*;
 
-<<<<<<< HEAD
 /**
  * Klasa Enemy zawiera m.in. metodę która sprawdza czy przycisk dotarł do punktu kontrolnego,
  * metodę która szuka kierunku w którym może się przemieszczać przeciwnik
  * oraz taką metodę co zmienia stan wroga na „martwy”.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class Enemy implements Unit {
     protected int width, height, currentCheckpoint;
     protected float speed, x, y, health, startHealth, hiddenHealth; // hiddenHealth jest wykorzystywany przez wieże po to

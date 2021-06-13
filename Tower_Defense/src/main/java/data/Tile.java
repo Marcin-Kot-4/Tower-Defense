@@ -3,13 +3,10 @@ package data;
 import org.newdawn.slick.opengl.Texture;
 import static controllers.Graphic.*;
 
-<<<<<<< HEAD
 /**
  * Klasa Tile zawiera m.in. metodę, która rysuje obiekt klasy Tile na ekranie,
  * metoda która zwraca pozycję na osi x oraz metodę która zwraca pozycję na osi y.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class Tile {
     private float x, y;
     private int width, height;

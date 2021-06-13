@@ -7,12 +7,9 @@ import projectiles.ProjectileDisruptor;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 
-<<<<<<< HEAD
 /**
  * Klasa TwinDisruptors zawiera m.in. w konstruktorze typ wieży i jedną nadpisaną metodę.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class TwinDisruptors extends Tower {
 
     public TwinDisruptors(TowerType type, Tile startTile, CopyOnWriteArrayList<Enemy> enemies) {

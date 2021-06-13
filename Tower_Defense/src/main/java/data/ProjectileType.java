@@ -3,13 +3,10 @@ package data;
 import org.newdawn.slick.opengl.Texture;
 import static controllers.Graphic.*;
 
-<<<<<<< HEAD
 /**
  * Enum inaczej typ wyliczeniowy ProjectileType zawiera typy pocisków,
  * i wartość jakich zadają obrażeń, ich prędkość oraz zasięg.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public enum ProjectileType {
 
     ProjectileLightCannon(FastLoad("ProjectileLightCannon"), 30, 550, 500),

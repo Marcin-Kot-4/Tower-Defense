@@ -4,12 +4,9 @@ import projectiles.ProjectileHeavyCannon;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 
-<<<<<<< HEAD
 /**
  * Klasa HeavyCannon zawiera m.in. w konstruktorze typ wieży i dwie nadpisane metody.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class HeavyCannon extends Tower {
 
     public HeavyCannon(TowerType type, Tile startTile, CopyOnWriteArrayList<Enemy> enemies) {

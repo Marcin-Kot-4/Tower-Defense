@@ -13,14 +13,11 @@ import org.newdawn.slick.opengl.Texture;
 import static controllers.Graphic.*;
 import static controllers.Map.LoadMap;
 
-<<<<<<< HEAD
 /**
  * Klasa Game zawiera m.in. dodawanie przycisków do interfejsu użytkownika,
  * rysuje opis wieży reprezentującej przycisk menu,
  * w miejscu gdzie znajduje się kursor myszy oraz metoda aktualizująca stan gry.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class Game {
 
     private TileGrid map;

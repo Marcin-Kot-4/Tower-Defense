@@ -8,14 +8,11 @@ import java.util.ArrayList;
 
 import static controllers.Graphic.*;
 
-<<<<<<< HEAD
 /**
  * Klasa UI zawiera m.in. metodę rysującą tekst o podanych współrzędnych,
  * metodę rysującąś przyciski z listy buttonList w oknie gry
  * oraz metodę która upraszcza dodawanie nowego przycisku do siatki przyciswkó menu.
  */
-=======
->>>>>>> 5c362d4da769c490fc611112221bceb8bf02bb47
 public class UI {
 
     private ArrayList<Button> buttonList;
